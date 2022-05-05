@@ -57,7 +57,7 @@ namespace BaladeurMultiFormats
         /// <param name="pParoles">Les paroles à écrire.</param>
         void EcrireParoles(StreamWriter pobjFichier, string pParoles);
         /// <summary>
-        /// Méthode servant à lire l’en-tête du fichier soit uniquement la première ligne.
+        /// Méthode servant à lire l’en-tête du fichier soit uniquement la première ligne et d'initialiser les champs de la chanson (titre, artiste et années de création de la chanson).
         /// </summary>
         void LireEntete();
         /// <summary>
