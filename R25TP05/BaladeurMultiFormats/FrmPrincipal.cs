@@ -23,6 +23,7 @@ namespace BaladeurMultiFormats
             Text += APP_INFO;
             MonHistorique = new Historique();
             // À COMPLÉTER...
+            Baladeur objBaladeur = new Baladeur();
         }
         #endregion
         //---------------------------------------------------------------------------------

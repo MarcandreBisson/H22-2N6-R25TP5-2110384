@@ -72,6 +72,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Baladeur.cs" />
     <Compile Include="Chanson.cs" />
     <Compile Include="ChansonAAC.cs" />
     <Compile Include="ChansonMP3.cs" />
@@ -90,6 +91,7 @@
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Historique.cs" />
+    <Compile Include="IBaladeur.cs" />
     <Compile Include="IChanson.cs" />
     <Compile Include="OutilsFormats.cs" />
     <Compile Include="Program.cs" />
