@@ -24,6 +24,7 @@ namespace BaladeurMultiFormats
             MonHistorique = new Historique();
             // À COMPLÉTER...
             Baladeur objBaladeur = new Baladeur();
+            objBaladeur.ConstruireLaListeDesChansons();
         }
         #endregion
         //---------------------------------------------------------------------------------
