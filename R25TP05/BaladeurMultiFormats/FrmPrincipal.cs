@@ -25,6 +25,7 @@ namespace BaladeurMultiFormats
             // À COMPLÉTER...
             Baladeur objBaladeur = new Baladeur();
             objBaladeur.ConstruireLaListeDesChansons();
+            objBaladeur.AfficherLesChansons(lsvChansons);
         }
         #endregion
         //---------------------------------------------------------------------------------

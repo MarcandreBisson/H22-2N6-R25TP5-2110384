@@ -38,9 +38,17 @@ namespace BaladeurMultiFormats
         #endregion
 
         #region MÉTHODES
-        public void AfficherLesChansons(ListView pListeView)
+        public void AfficherLesChansons(ListView pListView)
         {
-            throw new NotImplementedException();
+            foreach (Chanson objChanson in m_colChansons)
+            {
+                ListViewItem objItem = new ListViewItem(objChanson.Artiste);
+                objItem.SubItems.Add(objChanson.Titre);
+                objItem.SubItems.Add(objChanson.Annee.ToString());
+                objItem.SubItems.Add(objChanson.Format);
+                pListView.Items.Add(objItem);
+                
+            }
         }
 
         public Chanson ChansonAt(int pIndex)
@@ -72,9 +80,8 @@ namespace BaladeurMultiFormats
                         ChansonWMA objChanson = new ChansonWMA(NOM_RÉPERTOIRE + "\\" + NomFichier);
                         m_colChansons.Add(objChanson);
                     }
-
-
                 }
+                
             }
         }
 

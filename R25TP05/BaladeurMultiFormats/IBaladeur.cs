@@ -26,7 +26,7 @@ namespace BaladeurMultiFormats
         /// Méthode servant à afficher la liste des chansons dans la pListView passée en paramètre.
         /// </summary>
         /// <param name="pListeView">La ListView à afficher.</param>
-        void AfficherLesChansons(ListView pListeView);
+        void AfficherLesChansons(ListView pListView);
         /// <summary>
         /// Méthode servant à obtenir la chanson à l’index pIndex passé en paramètre.
         /// </summary>
