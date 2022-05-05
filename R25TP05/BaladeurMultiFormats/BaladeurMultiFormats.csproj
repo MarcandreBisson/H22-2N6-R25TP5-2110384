@@ -75,6 +75,7 @@
     <Compile Include="Chanson.cs" />
     <Compile Include="ChansonAAC.cs" />
     <Compile Include="ChansonMP3.cs" />
+    <Compile Include="ChansonWMA.cs" />
     <Compile Include="Consultation.cs" />
     <Compile Include="FrmHistorique.cs">
       <SubType>Form</SubType>

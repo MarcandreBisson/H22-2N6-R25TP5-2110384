@@ -23,7 +23,6 @@ namespace BaladeurMultiFormats
             Text += APP_INFO;
             MonHistorique = new Historique();
             // À COMPLÉTER...
-            ChansonMP3 objChanson = new ChansonMP3("Chansons\\Billie Jean.mp3");
         }
         #endregion
         //---------------------------------------------------------------------------------
