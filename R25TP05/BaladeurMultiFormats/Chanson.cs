@@ -66,11 +66,15 @@ namespace BaladeurMultiFormats
         }
         #endregion
 
-
         #region MÉTHODES
         public void Ecrire(string pParoles)
         {
-            throw new NotImplementedException();
+            StreamWriter sw = new StreamWriter(m_nomFichier);
+
+            EcrireEntete(sw);
+            EcrireParoles(sw, pParoles);
+
+            sw.Close();
         }
 
         public abstract void EcrireEntete(StreamWriter pobjFichier);

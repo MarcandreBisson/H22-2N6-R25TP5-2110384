@@ -72,6 +72,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chanson.cs" />
     <Compile Include="Consultation.cs" />
     <Compile Include="FrmHistorique.cs">
       <SubType>Form</SubType>
