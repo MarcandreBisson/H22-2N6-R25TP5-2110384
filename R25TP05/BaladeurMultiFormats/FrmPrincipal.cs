@@ -23,6 +23,7 @@ namespace BaladeurMultiFormats
             Text += APP_INFO;
             MonHistorique = new Historique();
             // À COMPLÉTER...
+            ChansonAAC objChanson = new ChansonAAC("Chansons\\Blame It On Me.aac");
         }
         #endregion
         //---------------------------------------------------------------------------------
