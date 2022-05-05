@@ -86,6 +86,7 @@
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Historique.cs" />
+    <Compile Include="IChanson.cs" />
     <Compile Include="OutilsFormats.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
