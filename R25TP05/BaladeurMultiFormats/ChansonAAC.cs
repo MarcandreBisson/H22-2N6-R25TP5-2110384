@@ -35,8 +35,6 @@ namespace BaladeurMultiFormats
         #endregion
 
         #region MÉTHODES
-
-        #region OVERRIDE DE MÉTHODES
         public override void EcrireEntete(StreamWriter pobjFichier)
         {
             pobjFichier.WriteLine("TITRE = " + m_titre + " : ARTISTE = " + m_artiste + " : ANNÉE = " + m_annee);
@@ -67,9 +65,5 @@ namespace BaladeurMultiFormats
             return  OutilsFormats.DecoderAAC(pobjFichier.ReadToEnd());
         }
         #endregion
-        #endregion
-
-
-
     }
 }
