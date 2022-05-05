@@ -1,0 +1,100 @@
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe.config
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.1\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe.config
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.2\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe.config
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Solution) H21.2.3\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.pdb
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe.config
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csprojAssemblyReference.cache
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CoreCompileInputs.cache
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
+C:\Users\jamil.gammoudi\Desktop\H21\2N6\R24\R24 Tp5 Baladeur MF (Solution) H21.2.5\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe.config
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb

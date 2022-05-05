@@ -1,0 +1,22 @@
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\bin\Debug\BaladeurMultiFormats.exe.config
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\bin\Debug\BaladeurMultiFormats.exe
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\bin\Debug\BaladeurMultiFormats.pdb
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.csprojAssemblyReference.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.FrmHistorique.resources
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.FrmPrincipal.resources
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.Properties.Resources.resources
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.csproj.GenerateResource.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.csproj.CoreCompileInputs.cache
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.exe
+J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.pdb
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\bin\Debug\BaladeurMultiFormats.exe.config
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\bin\Debug\BaladeurMultiFormats.exe
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\bin\Debug\BaladeurMultiFormats.pdb
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.csproj.AssemblyReference.cache
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.FrmHistorique.resources
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.FrmPrincipal.resources
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.Properties.Resources.resources
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.csproj.GenerateResource.cache
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.csproj.CoreCompileInputs.cache
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.exe
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormats\obj\Debug\BaladeurMultiFormats.pdb
