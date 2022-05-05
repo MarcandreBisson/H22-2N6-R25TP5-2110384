@@ -38,7 +38,7 @@ namespace BaladeurMultiFormats
                 if (m_nomFichier != null)
                 {
                     StreamReader sr = new StreamReader(m_nomFichier);
-                    sr.ReadLine();
+                    SauterEntete(sr);
                     return LireParoles(sr);
                 }
                 return "NULL";
