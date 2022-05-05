@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace BaladeurMultiFormats
 {
     /// <summary>
-    /// Classe abstraite pour une chanson.
+    /// Classe abstraite pour instancier une chanson.
     /// </summary>
     public abstract class Chanson : IChanson
     {
@@ -31,7 +31,19 @@ namespace BaladeurMultiFormats
         protected string m_nomFichier;
         public string NomFichier { get { return m_nomFichier; } }
 
-        public string Paroles => throw new NotImplementedException();
+        public string Paroles 
+        { 
+            get 
+            {
+                if (m_nomFichier != null)
+                {
+                    StreamReader sr = new StreamReader(m_nomFichier);
+                    sr.ReadLine();
+                    return LireParoles(sr);
+                }
+                return "NULL";
+            } 
+        }
         /// <summary>
         /// Titre de la chanson.
         /// </summary>
@@ -42,7 +54,7 @@ namespace BaladeurMultiFormats
 
         #region CONSTRUCTEURS
         /// <summary>
-        /// Initialise une instance avec le nom du fichier.
+        /// Initialise une chanson avec le nom du fichier.
         /// </summary>
         /// <param name="pNomFichier">Le nom du fichier.</param>
         public Chanson(string pNomFichier)
@@ -51,7 +63,7 @@ namespace BaladeurMultiFormats
             LireEntete();
         }
         /// <summary>
-        /// Initialise une instance avec le répertoire, l'artiste, le titre et la date de création de la chanson.
+        /// Initialise une chanson avec le répertoire, l'artiste, le titre et la date de création de la chanson.
         /// </summary>
         /// <param name="pRepertoire">Le répertoire de la chanson.</param>
         /// <param name="pArtiste">L'artiste de la chanson.</param>
