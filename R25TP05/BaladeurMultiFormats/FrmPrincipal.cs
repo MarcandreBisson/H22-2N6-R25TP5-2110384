@@ -11,7 +11,7 @@ namespace BaladeurMultiFormats
     public partial class FrmPrincipal : Form
     {
         public const string APP_INFO = "(2110384)";
-
+        Baladeur objBaladeur = new Baladeur();
         #region Propriété : MonHistorique
         public Historique MonHistorique { get; }
         #endregion
@@ -23,7 +23,7 @@ namespace BaladeurMultiFormats
             Text += APP_INFO;
             MonHistorique = new Historique();
             // À COMPLÉTER...
-            Baladeur objBaladeur = new Baladeur();
+            
             objBaladeur.ConstruireLaListeDesChansons();
             objBaladeur.AfficherLesChansons(lsvChansons);
         }
@@ -49,6 +49,9 @@ namespace BaladeurMultiFormats
         {
             // Vider l'historique car les références ne sont plus bonnes
             // À COMPLÉTER...
+            objBaladeur.ConvertirVersAAC(lsvChansons.SelectedIndices[0]);
+            objBaladeur.AfficherLesChansons(lsvChansons);
+            
         }
         private void MnuFormatConvertirVersMP3_Click(object sender, EventArgs e)
         {

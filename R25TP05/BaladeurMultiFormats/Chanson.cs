@@ -40,6 +40,7 @@ namespace BaladeurMultiFormats
                     StreamReader sr = new StreamReader(m_nomFichier);
                     SauterEntete(sr);
                     return LireParoles(sr);
+                    sr.Close();
                 }
                 return "NULL";
             } 
@@ -81,7 +82,7 @@ namespace BaladeurMultiFormats
         #region MÉTHODES
         public void Ecrire(string pParoles)
         {
-            StreamWriter sw = new StreamWriter(m_nomFichier);
+            StreamWriter sw = new StreamWriter(m_nomFichier,false);
 
             EcrireEntete(sw);
             EcrireParoles(sw, pParoles);

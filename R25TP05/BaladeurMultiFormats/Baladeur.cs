@@ -47,13 +47,13 @@ namespace BaladeurMultiFormats
                 objItem.SubItems.Add(objChanson.Annee.ToString());
                 objItem.SubItems.Add(objChanson.Format);
                 pListView.Items.Add(objItem);
-                
+                pListView.Sort();
             }
         }
 
         public Chanson ChansonAt(int pIndex)
         {
-            throw new NotImplementedException();
+            return m_colChansons[pIndex];
         }
 
         public void ConstruireLaListeDesChansons()
@@ -87,7 +87,16 @@ namespace BaladeurMultiFormats
 
         public void ConvertirVersAAC(int pIndex)
         {
-            throw new NotImplementedException();
+            string paroleChanson = ChansonAt(pIndex).Paroles;
+            ChansonAAC objChanson = new ChansonAAC(NOM_RÉPERTOIRE, m_colChansons[pIndex].Artiste, m_colChansons[pIndex].Titre, m_colChansons[pIndex].Annee);
+            m_colChansons[pIndex] = objChanson;
+            File.Create(objChanson.NomFichier);
+            
+            File.Delete(m_colChansons[pIndex].NomFichier);
+
+            objChanson.Ecrire(paroleChanson);
+
+
         }
 
         public void ConvertirVersMP3(int pIndex)
