@@ -89,11 +89,9 @@ namespace BaladeurMultiFormats
         {
             string paroleChanson = ChansonAt(pIndex).Paroles;
             ChansonAAC objChanson = new ChansonAAC(NOM_RÉPERTOIRE, m_colChansons[pIndex].Artiste, m_colChansons[pIndex].Titre, m_colChansons[pIndex].Annee);
-            m_colChansons[pIndex] = objChanson;
-            File.Create(objChanson.NomFichier);
-            
             File.Delete(m_colChansons[pIndex].NomFichier);
-
+            m_colChansons[pIndex] = objChanson;
+            File.Create(objChanson.NomFichier).Close();
             objChanson.Ecrire(paroleChanson);
 
 

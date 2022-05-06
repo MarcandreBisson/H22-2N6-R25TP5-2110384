@@ -35,14 +35,15 @@ namespace BaladeurMultiFormats
         { 
             get 
             {
+                string parole = "NULL";
                 if (m_nomFichier != null)
                 {
                     StreamReader sr = new StreamReader(m_nomFichier);
                     SauterEntete(sr);
-                    return LireParoles(sr);
+                    parole = LireParoles(sr);
                     sr.Close();
                 }
-                return "NULL";
+                return parole;
             } 
         }
         /// <summary>
