@@ -38,7 +38,7 @@ namespace BaladeurMultiFormats
         #region MÉTHODES
         public override void EcrireEntete(StreamWriter pobjFichier)
         {
-            pobjFichier.WriteLine(m_codage + " / " + m_artiste + " / " + m_annee + " / " + m_titre);
+            pobjFichier.WriteLine(m_codage + " / " + m_annee + " / " + m_artiste + " / " + m_titre);
         }
 
         public override void EcrireParoles(StreamWriter pobjFichier, string pParoles)

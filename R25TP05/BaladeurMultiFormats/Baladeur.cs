@@ -112,7 +112,15 @@ namespace BaladeurMultiFormats
 
         public void ConvertirVersWMA(int pIndex)
         {
-
+            if (ChansonAt(pIndex).Format != "wma")
+            {
+                string paroleChanson = ChansonAt(pIndex).Paroles;
+                ChansonWMA objChanson = new ChansonWMA(NOM_RÉPERTOIRE, m_colChansons[pIndex].Artiste, m_colChansons[pIndex].Titre, m_colChansons[pIndex].Annee);
+                File.Delete(m_colChansons[pIndex].NomFichier);
+                m_colChansons[pIndex] = objChanson;
+                File.Create(objChanson.NomFichier).Close();
+                objChanson.Ecrire(paroleChanson);
+            }
         }
         #endregion  
 

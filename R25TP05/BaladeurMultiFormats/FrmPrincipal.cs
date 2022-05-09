@@ -72,7 +72,14 @@ namespace BaladeurMultiFormats
         private void MnuFormatConvertirVersWMA_Click(object sender, EventArgs e)
         {
             // Vider l'historique car les références ne sont plus bonnes
+            MonHistorique.Clear();
             // À COMPLÉTER...
+            int indexchanson = lsvChansons.SelectedIndices[0];
+            objBaladeur.ConvertirVersWMA(indexchanson);
+            Chanson objChanson = objBaladeur.ChansonAt(indexchanson);
+            ListViewItem objItem = new ListViewItem(objChanson.Format.ToUpper());
+
+            lsvChansons.Items[indexchanson].SubItems[3] = objItem.SubItems[0];
         }
         #endregion
         //---------------------------------------------------------------------------------
