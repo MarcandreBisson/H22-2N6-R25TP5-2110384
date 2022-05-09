@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 using System.IO;
+using System.Collections.Generic;
 
 
 namespace BaladeurMultiFormats
@@ -47,6 +48,12 @@ namespace BaladeurMultiFormats
         {
             // À COMPLÉTER...
             MettreAJourSelonContexte();
+            if(lsvChansons.SelectedItems.Count != 0)
+            {
+                txtParoles.Text = objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Paroles;
+                MonHistorique.Add(new Consultation(DateTime.Now, objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0])));
+            }
+
         }
         #endregion
 
@@ -97,6 +104,17 @@ namespace BaladeurMultiFormats
         private void MnuSpécialHistorique_Click(object sender, EventArgs e)
         {
             FrmHistorique objFormulaire = new FrmHistorique(MonHistorique);
+            List<Consultation> LstConsultation = new List<Consultation>();
+            foreach(Consultation objConsultation in MonHistorique)
+            {
+                if(!LstConsultation.Contains(objConsultation))
+                    LstConsultation.Add(objConsultation);
+            }
+            foreach(Consultation objConsultation in LstConsultation)
+            {
+                
+            }
+
             objFormulaire.ShowDialog();
         }
         #endregion
