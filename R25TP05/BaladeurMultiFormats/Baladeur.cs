@@ -45,7 +45,7 @@ namespace BaladeurMultiFormats
                 ListViewItem objItem = new ListViewItem(objChanson.Artiste);
                 objItem.SubItems.Add(objChanson.Titre);
                 objItem.SubItems.Add(objChanson.Annee.ToString());
-                objItem.SubItems.Add(objChanson.Format);
+                objItem.SubItems.Add(objChanson.Format.ToUpper());
                 pListView.Items.Add(objItem);
                 pListView.Sort();
             }

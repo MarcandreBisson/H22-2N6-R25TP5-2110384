@@ -49,9 +49,12 @@ namespace BaladeurMultiFormats
         {
             // Vider l'historique car les références ne sont plus bonnes
             // À COMPLÉTER...
-            objBaladeur.ConvertirVersAAC(lsvChansons.SelectedIndices[0]);
-            objBaladeur.AfficherLesChansons(lsvChansons);
-            
+            int indexchanson = lsvChansons.SelectedIndices[0];
+            objBaladeur.ConvertirVersAAC(indexchanson);
+            Chanson objChanson = objBaladeur.ChansonAt(indexchanson);
+            ListViewItem objItem = new ListViewItem(objChanson.Format.ToUpper());
+
+            lsvChansons.Items[indexchanson].SubItems[3] = objItem.SubItems[0];
         }
         private void MnuFormatConvertirVersMP3_Click(object sender, EventArgs e)
         {
