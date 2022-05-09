@@ -50,12 +50,11 @@ namespace BaladeurMultiFormats
                 pListView.Sort();
             }
         }
-
+        
         public Chanson ChansonAt(int pIndex)
         {
             return m_colChansons[pIndex];
         }
-
         public void ConstruireLaListeDesChansons()
         {
             if(Directory.Exists(NOM_RÉPERTOIRE))
@@ -84,27 +83,36 @@ namespace BaladeurMultiFormats
                 
             }
         }
-
         public void ConvertirVersAAC(int pIndex)
         {
-            string paroleChanson = ChansonAt(pIndex).Paroles;
-            ChansonAAC objChanson = new ChansonAAC(NOM_RÉPERTOIRE, m_colChansons[pIndex].Artiste, m_colChansons[pIndex].Titre, m_colChansons[pIndex].Annee);
-            File.Delete(m_colChansons[pIndex].NomFichier);
-            m_colChansons[pIndex] = objChanson;
-            File.Create(objChanson.NomFichier).Close();
-            objChanson.Ecrire(paroleChanson);
-
-
+            if(ChansonAt(pIndex).Format != "aac")
+            {
+                string paroleChanson = ChansonAt(pIndex).Paroles;
+                ChansonAAC objChanson = new ChansonAAC(NOM_RÉPERTOIRE, m_colChansons[pIndex].Artiste, m_colChansons[pIndex].Titre, m_colChansons[pIndex].Annee);
+                File.Delete(m_colChansons[pIndex].NomFichier);
+                m_colChansons[pIndex] = objChanson;
+                File.Create(objChanson.NomFichier).Close();
+                objChanson.Ecrire(paroleChanson);
+            }
+            
         }
 
         public void ConvertirVersMP3(int pIndex)
         {
-            throw new NotImplementedException();
+            if (ChansonAt(pIndex).Format != "mp3")
+            {
+                string paroleChanson = ChansonAt(pIndex).Paroles;
+                ChansonMP3 objChanson = new ChansonMP3(NOM_RÉPERTOIRE, m_colChansons[pIndex].Artiste, m_colChansons[pIndex].Titre, m_colChansons[pIndex].Annee);
+                File.Delete(m_colChansons[pIndex].NomFichier);
+                m_colChansons[pIndex] = objChanson;
+                File.Create(objChanson.NomFichier).Close();
+                objChanson.Ecrire(paroleChanson);
+            }
         }
 
         public void ConvertirVersWMA(int pIndex)
         {
-            throw new NotImplementedException();
+
         }
         #endregion  
 

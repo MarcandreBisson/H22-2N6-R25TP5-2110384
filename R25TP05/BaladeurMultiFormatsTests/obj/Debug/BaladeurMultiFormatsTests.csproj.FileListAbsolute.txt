@@ -98,3 +98,23 @@ J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Ma
 J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
 J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
 J:\H21 2N6 Les Capsules\R24 Travail Pratique #5\_Code C#\R24 Tp5 Baladeur MF (Matériel) H21.2.7\R24TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormatsTests.pdb
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.pdb
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\BaladeurMultiFormats.exe.config
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.AssemblyReference.cache
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CoreCompileInputs.cache
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.csproj.CopyComplete
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.dll
+C:\Users\marca\Desktop\H22-2N6-R25TP5-2110384\R25TP05\BaladeurMultiFormatsTests\obj\Debug\BaladeurMultiFormatsTests.pdb

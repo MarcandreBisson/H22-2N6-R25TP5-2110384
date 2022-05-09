@@ -48,6 +48,7 @@ namespace BaladeurMultiFormats
         private void MnuFormatConvertirVersAAC_Click(object sender, EventArgs e)
         {
             // Vider l'historique car les références ne sont plus bonnes
+            MonHistorique.Clear();
             // À COMPLÉTER...
             int indexchanson = lsvChansons.SelectedIndices[0];
             objBaladeur.ConvertirVersAAC(indexchanson);
@@ -59,7 +60,14 @@ namespace BaladeurMultiFormats
         private void MnuFormatConvertirVersMP3_Click(object sender, EventArgs e)
         {
             // Vider l'historique car les références ne sont plus bonnes
+            MonHistorique.Clear();
             // À COMPLÉTER...
+            int indexchanson = lsvChansons.SelectedIndices[0];
+            objBaladeur.ConvertirVersMP3(indexchanson);
+            Chanson objChanson = objBaladeur.ChansonAt(indexchanson);
+            ListViewItem objItem = new ListViewItem(objChanson.Format.ToUpper());
+
+            lsvChansons.Items[indexchanson].SubItems[3] = objItem.SubItems[0];
         }
         private void MnuFormatConvertirVersWMA_Click(object sender, EventArgs e)
         {
