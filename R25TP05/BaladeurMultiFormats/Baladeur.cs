@@ -122,10 +122,6 @@ namespace BaladeurMultiFormats
                 objChanson.Ecrire(paroleChanson);
             }
         }
-        #endregion  
-
- 
-
-        
+        #endregion    
     }
 }

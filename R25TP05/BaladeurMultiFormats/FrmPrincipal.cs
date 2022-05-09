@@ -24,7 +24,7 @@ namespace BaladeurMultiFormats
             Text += APP_INFO;
             MonHistorique = new Historique();
             // À COMPLÉTER...
-            
+            lsvChansons.Items.Clear();
             objBaladeur.ConstruireLaListeDesChansons();
             objBaladeur.AfficherLesChansons(lsvChansons);
             MettreAJourSelonContexte();
@@ -39,7 +39,6 @@ namespace BaladeurMultiFormats
             MnuFormatConvertirVersAAC.Enabled = lsvChansons.SelectedItems.Count != 0 && objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Format != "aac";
             MnuFormatConvertirVersMP3.Enabled = lsvChansons.SelectedItems.Count != 0 && objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Format != "mp3";
             MnuFormatConvertirVersWMA.Enabled = lsvChansons.SelectedItems.Count != 0 && objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Format != "wma";
-
         }
         #endregion
         //---------------------------------------------------------------------------------
@@ -53,7 +52,6 @@ namespace BaladeurMultiFormats
                 txtParoles.Text = objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Paroles;
                 MonHistorique.Add(new Consultation(DateTime.Now, objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0])));
             }
-
         }
         #endregion
 
@@ -103,18 +101,7 @@ namespace BaladeurMultiFormats
         #region Historique
         private void MnuSpécialHistorique_Click(object sender, EventArgs e)
         {
-            FrmHistorique objFormulaire = new FrmHistorique(MonHistorique);
-            List<Consultation> LstConsultation = new List<Consultation>();
-            foreach(Consultation objConsultation in MonHistorique)
-            {
-                if(!LstConsultation.Contains(objConsultation))
-                    LstConsultation.Add(objConsultation);
-            }
-            foreach(Consultation objConsultation in LstConsultation)
-            {
-                
-            }
-
+            FrmHistorique objFormulaire = new FrmHistorique(MonHistorique);            
             objFormulaire.ShowDialog();
         }
         #endregion

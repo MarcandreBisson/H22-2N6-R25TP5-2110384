@@ -51,7 +51,6 @@ namespace BaladeurMultiFormats
         /// </summary>
         protected string m_titre;
         public string Titre { get { return m_titre; } }
-
         #endregion
 
         #region CONSTRUCTEURS
