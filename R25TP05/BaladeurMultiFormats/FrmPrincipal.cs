@@ -26,6 +26,8 @@ namespace BaladeurMultiFormats
             
             objBaladeur.ConstruireLaListeDesChansons();
             objBaladeur.AfficherLesChansons(lsvChansons);
+            MettreAJourSelonContexte();
+            lblNbChansons.Text = objBaladeur.NbChansons.ToString();
         }
         #endregion
         //---------------------------------------------------------------------------------
@@ -33,6 +35,10 @@ namespace BaladeurMultiFormats
         private void MettreAJourSelonContexte()
         {
             // À COMPLÉTER...
+            MnuFormatConvertirVersAAC.Enabled = lsvChansons.SelectedItems.Count != 0 && objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Format != "aac";
+            MnuFormatConvertirVersMP3.Enabled = lsvChansons.SelectedItems.Count != 0 && objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Format != "mp3";
+            MnuFormatConvertirVersWMA.Enabled = lsvChansons.SelectedItems.Count != 0 && objBaladeur.ChansonAt(lsvChansons.SelectedIndices[0]).Format != "wma";
+
         }
         #endregion
         //---------------------------------------------------------------------------------
@@ -40,6 +46,7 @@ namespace BaladeurMultiFormats
         private void LsvChansons_SelectedIndexChanged(object sender, EventArgs e)
         {
             // À COMPLÉTER...
+            MettreAJourSelonContexte();
         }
         #endregion
 
@@ -56,6 +63,7 @@ namespace BaladeurMultiFormats
             ListViewItem objItem = new ListViewItem(objChanson.Format.ToUpper());
 
             lsvChansons.Items[indexchanson].SubItems[3] = objItem.SubItems[0];
+            MettreAJourSelonContexte();
         }
         private void MnuFormatConvertirVersMP3_Click(object sender, EventArgs e)
         {
@@ -68,6 +76,7 @@ namespace BaladeurMultiFormats
             ListViewItem objItem = new ListViewItem(objChanson.Format.ToUpper());
 
             lsvChansons.Items[indexchanson].SubItems[3] = objItem.SubItems[0];
+            MettreAJourSelonContexte();
         }
         private void MnuFormatConvertirVersWMA_Click(object sender, EventArgs e)
         {
@@ -80,6 +89,7 @@ namespace BaladeurMultiFormats
             ListViewItem objItem = new ListViewItem(objChanson.Format.ToUpper());
 
             lsvChansons.Items[indexchanson].SubItems[3] = objItem.SubItems[0];
+            MettreAJourSelonContexte();
         }
         #endregion
         //---------------------------------------------------------------------------------
