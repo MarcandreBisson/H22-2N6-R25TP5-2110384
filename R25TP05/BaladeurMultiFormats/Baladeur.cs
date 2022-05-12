@@ -59,6 +59,7 @@ namespace BaladeurMultiFormats
         {
             if(Directory.Exists(NOM_RÉPERTOIRE))
             {
+                int compteur = 0;
                 DirectoryInfo dir = new DirectoryInfo(NOM_RÉPERTOIRE);
                 foreach(FileInfo objFichier in dir.GetFiles())
                 {
@@ -66,21 +67,34 @@ namespace BaladeurMultiFormats
                     string[] NomFichierSplit = NomFichier.Split('.');
                     if(NomFichierSplit[1] == "aac")
                     {
-                        ChansonAAC objChanson = new ChansonAAC(NOM_RÉPERTOIRE + "\\" + NomFichier);
-                        m_colChansons.Add(objChanson);
+                        try
+                        {
+                            ChansonAAC objChanson = new ChansonAAC(NOM_RÉPERTOIRE + "\\" + NomFichier);
+                            m_colChansons.Add(objChanson);
+                        }
+                        catch(Exception) { compteur++; }
                     }
                     else if (NomFichierSplit[1] == "mp3")
                     {
-                        ChansonMP3 objChanson = new ChansonMP3(NOM_RÉPERTOIRE + "\\" + NomFichier);
-                        m_colChansons.Add(objChanson);
+                        try
+                        {
+                            ChansonMP3 objChanson = new ChansonMP3(NOM_RÉPERTOIRE + "\\" + NomFichier);
+                            m_colChansons.Add(objChanson);
+                        }
+                        catch(Exception) { compteur++; }
+                           
                     }
                     else if(NomFichierSplit[1] == "wma")
                     {
-                        ChansonWMA objChanson = new ChansonWMA(NOM_RÉPERTOIRE + "\\" + NomFichier);
-                        m_colChansons.Add(objChanson);
-                    }
+                        try
+                        {
+                            ChansonWMA objChanson = new ChansonWMA(NOM_RÉPERTOIRE + "\\" + NomFichier);
+                            m_colChansons.Add(objChanson);
+                        }
+                        catch (Exception) { compteur++; }                    }
                 }
-                
+                if (compteur > 0)
+                    MessageBox.Show(compteur + " chansons n'ont pu être chargées correctement", "Baladeur",MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
         public void ConvertirVersAAC(int pIndex)
